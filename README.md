@@ -1,4 +1,4 @@
-# Proyecto 07: Predictor Lúdico Mundial 2026
+# Proyecto 10: Predictor Lúdico Mundial 2026
 
 Proyecto demostrativo de Data Science aplicado al fútbol.
 
