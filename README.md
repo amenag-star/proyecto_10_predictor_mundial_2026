@@ -12,7 +12,7 @@ Este proyecto es lúdico y demostrativo. No corresponde a un modelo estadístico
 
 ## Archivos
 
-- `Proyecto_07_Predictor_Ludico_Mundial_2026.ipynb`: notebook principal.
+- `Proyecto_10_Predictor_Ludico_Mundial_2026.ipynb`: notebook principal.
 - `app_streamlit.py`: app interactiva.
 - `data_fuerza_equipos.csv`: fuerza base por selección.
 - `data_predicciones_fase_grupos.csv`: predicciones iniciales.
