@@ -24,13 +24,13 @@ Este proyecto es lúdico y demostrativo. No corresponde a un modelo estadístico
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook Proyecto_07_Predictor_Ludico_Mundial_2026.ipynb
+jupyter notebook Proyecto_10_Predictor_Ludico_Mundial_2026.ipynb
 ```
 
 Para ejecutar la app:
 
 ```bash
-streamlit run app_streamlit.py
+streamlit run app/app_streamlit.py
 ```
 
 ## Métricas iniciales
